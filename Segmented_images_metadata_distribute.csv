@@ -1,0 +1,429 @@
+image_id,ceramic_type,where_held,museum_no,source,page
+AM01,plate,Ashmolean_Oxford,no_EAX.3275,web,http://jameelcentre.ashmolean.org/collection/8/per_page/25/offset/0/sort_by/date/object/10959
+AM02,tile,Ashmolean_Oxford,no_EAX.3215,web,http://jameelcentre.ashmolean.org/collection/8/sort_by/date/sort_order/asc/per_page/25/offset/0/object/10907
+AM03,plate,Ashmolean_Oxford,no_EAX.3247,web,http://jameelcentre.ashmolean.org/collection/8/sort_by/date/sort_order/asc/per_page/25/offset/0/object/20697
+AM04,plate,Ashmolean_Oxford,no_EAX.3250,web,http://jameelcentre.ashmolean.org/collection/8/sort_by/date/sort_order/asc/per_page/25/offset/0/object/20698
+AM05,plate,Ashmolean_Oxford,,web,http://jameelcentre.ashmolean.org/collection/8/sort_by/date/sort_order/asc/per_page/25/offset/0/object/20698
+AM06,tile,Ashmolean_Oxford,no_EAX.3216,web,http://jameelcentre.ashmolean.org/collection/8/sort_by/date/sort_order/asc/per_page/25/offset/0/object/20674
+AM07,plate,Ashmolean_Oxford,no_EAX.3277,web,http://jameelcentre.ashmolean.org/collection/8/sort_by/date/sort_order/asc/per_page/25/offset/0/object/10961
+AM09,plate,Ashmolean_Oxford,no_EA1986.50,web,http://jameelcentre.ashmolean.org/collection/8/sort_by/date/sort_order/asc/per_page/25/offset/0/object/10886
+BEN01_1,tile,Benaki_Athens,no_109,web,https://www.benaki.gr/index.php?option=com_collectionitems&view=collectionitem&id=117040&Itemid=0&lang=en
+BEN01_2,tile,Benaki_Athens,no_109,web,https://www.benaki.gr/index.php?option=com_collectionitems&view=collectionitem&id=117040&Itemid=0&lang=en
+BEN03,plate,Benaki_Athens,no_5,web,https://www.benaki.gr/index.php?option=com_collectionitems&view=collectionitem&id=117105&lang=en&lang=el
+BEN04,plate,Benaki_Athens,no_2,web,https://www.benaki.gr/index.php?option=com_collectionitems&view=collectionitem&id=117034&Itemid=0&lang=en
+BEN05,plate,Benaki_Athens,no_4,web,https://www.benaki.gr/index.php?option=com_collectionitems&view=collectionitem&id=117103&Itemid=0&lang=en
+BEN06,tile,Benaki_Athens,no_GE75,web,https://www.benaki.gr/index.php?option=com_collectionitems&view=collectionitem&id=117073&Itemid=&lang=en
+BEN07_1,tile,Benaki_Athens,NA,direct,
+BEN07_2,tile,Benaki_Athens,NA,direct,
+BEN08_1,tile,Benaki_Athens,NA,direct,
+BEN08_2,tile,Benaki_Athens,NA,direct,
+BEN08_3,tile,Benaki_Athens,NA,direct,
+BEN09,tile,Benaki_Athens,NA,direct,
+BEN11_1,tile,Benaki_Athens,NA,direct,
+BEN11_2,tile,Benaki_Athens,NA,direct,
+BEN11_3,tile,Benaki_Athens,NA,direct,
+BEN11_4,tile,Benaki_Athens,NA,direct,
+BEN17,tile,Benaki_Athens,NA,direct,
+BM05,tile,BM_London,"no_1887,0617.33",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=238992&partId=1&school=8148&page=1
+BM11,tile,BM_London,"no_1895,0603.15",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=238459&partId=1&school=8148&page=1
+BM12,tile,BM_London,"no_1887,0617.3",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=238995&partId=1&school=8148&page=1
+BM13,tile,BM_London,no_OA+.10659.1-2,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=241605&partId=1&school=8148&page=1
+BM14,tile,BM_London,no_OA+.10658,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=241606&partId=1&school=8148&page=1
+BM15,tile,BM_London,"no_1878,1230.53",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=239205&partId=1&school=8148&page=1
+BM16,jug,BM_London,"no_1878,1230.514",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=239218&partId=1&school=8148&page=1
+BM17,plate,BM_London,"no_1887,0211.3",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=239022&partId=1&school=8148&page=1
+BM18,tile,BM_London,no_OA+.14401,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=235907&partId=1&school=8148&page=1
+BM20,tile,BM_London,no_OA+.10818,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=219267&partId=1&school=8148&page=1
+BM22,tile,BM_London,no_OA+.10771.1-4,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=219312&partId=1&school=8148&page=1
+BM24,tile,BM_London,no_OA+.14383,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=235925&partId=1&school=8148&page=2
+BM25,tile,BM_London,"no_1878,1230.512",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=239220&partId=1&school=8148&page=2
+BM26,plate,BM_London,no_G.22,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215493&partId=1&school=8148&page=2
+BM27,tile,BM_London,no_G.79,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215462&partId=1&school=8148&page=2
+BM29,plate,BM_London,no_G.146,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215440&partId=1&school=8148&page=2
+BM32,tile,BM_London,no_OA+.10774.1-2,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=241528&partId=1&school=8148&page=2
+BM34,tile,BM_London,"no_1892,0613.69",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=238595&partId=1&school=8148&page=2
+BM38,tile,BM_London,no_OA+.10657.1-2,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=241607&partId=1&school=8148&page=3
+BM39,plate,BM_London,"no_1878,1230.5",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=239233&partId=1&school=8148&page=3
+BM40,plate,BM_London,no_G.42,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=236589&partId=1&school=8148&page=3
+BM41,tankard,BM_London,no_G.321,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215389&partId=1&school=8148&page=3
+BM42,tankard,BM_London,no_G.59,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=183060&partId=1&school=8148&page=3
+BM45,tile,BM_London,no_OA+.10773.1-3,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=219310&partId=1&school=8148&page=3
+BM47,plate,BM_London,no_G.35,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=236593&partId=1&school=8148&page=3
+BM48,plate,BM_London,"no_1878,1230.49",web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=239244&partId=1&school=8148&page=3
+BM49,plate,BM_London,no_G.37,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215486&partId=1&school=8148&page=3
+BM50,plate,BM_London,no_G.115,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215447&partId=1&school=8148&page=3
+BM51,plate,BM_London,no_G.32,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215489&partId=1&school=8148&page=3
+BM52,plate,BM_London,no_G.112,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215450&partId=1&school=8148&page=3
+BM54,tile,BM_London,no_G.135,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=236540&partId=1&school=8148&page=3
+BM55,plate,BM_London,no_G.128,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215445&partId=1&school=8148&page=4
+BM56_1,tile,BM_London,no_G.171,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=236525&partId=1&school=8148&page=4
+BM56_2,tile,BM_London,no_G.171,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=236525&partId=1&school=8148&page=4
+BM57,plate,BM_London,no_G.127,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=236546&partId=1&school=8148&page=4
+BM59,tile,BM_London,no_G.78,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215463&partId=1&school=8148&page=4
+BM60,tile,BM_London,no_G.85,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=236571&partId=1&school=8148&page=4
+BM61_1,tile,BM_London,no_G.77,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215464&partId=1&school=8148&page=4
+BM61_2,tile,BM_London,no_G.77,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215464&partId=1&school=8148&page=4
+BM62,basin,BM_London,no_G.66,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215472&partId=1&school=8148&page=4
+BM63,tankard,BM_London,no_G.108,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215453&partId=1&school=8148&page=4
+BM64,tankard,BM_London,no_G.154,web,http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=215435&partId=1&school=8148&page=4
+BM65,mosque lamp (detail),BM_London,"no_1887,0516.11887,0516.1",web,https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?assetId=34175001&objectId=239020&partId=1
+DCC01,plate,David_Copenhagen,no_Isl183,web,https://www.davidmus.dk/en/collections/islamic/dynasties/ottomans/art/isl_183
+FMC01,plate,Fitzwilliam_Cambridge,no_C.14-1950,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=71965
+FMC02,tile,Fitzwilliam_Cambridge,no_C.29-1950,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=17592
+FMC03,tile,Fitzwilliam_Cambridge,no_C.6-1933,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=17581
+FMC04,tile,Fitzwilliam_Cambridge,no_C.120-1950,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=17595
+FMC05,tile,Fitzwilliam_Cambridge,no_C.5-1933,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=17580
+FMC06,plate,Fitzwilliam_Cambridge,no_C.20-1950,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=73009
+FMC07,tile,Fitzwilliam_Cambridge,no_C.37-1935,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=17587
+FMC08,tile,Fitzwilliam_Cambridge,no_C.41-1924,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=17574
+FMC09,plate,Fitzwilliam_Cambridge,no_C.1779-1928,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=72600
+FMC10,plate,Fitzwilliam_Cambridge,no_C.15-1950,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=72139
+FMC11,plate,Fitzwilliam_Cambridge,no_C.32-1934,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=74522
+FMC12,plate,Fitzwilliam_Cambridge,no_C.569-1991,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=75544
+FMC13,plate,Fitzwilliam_Cambridge,no_MAR.C.113-1912,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=77359
+FMC14,plate,Fitzwilliam_Cambridge,no_C.1777-1928,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=72599
+FMC15,plate,Fitzwilliam_Cambridge,no_C.72-1911,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=75923
+FMC16,plate,Fitzwilliam_Cambridge,no_C.34-1950,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=74610
+FMC17,tile,Fitzwilliam_Cambridge,no_OC.180-1946,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=17589
+FMC18,tile,Fitzwilliam_Cambridge,no_C.3-1929,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=17579
+FMC19,tile,Fitzwilliam_Cambridge,no_C.1775-1928,web,http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=iznik&oid=17576
+GMBC01,plate,Burrell_Glasgow,no_41.1,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39482;type=101
+GMBC02,plate,Burrell_Glasgow,no_41.1O,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39214;type=101
+GMBC03,plate,Burrell_Glasgow,no_41.11,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39192;type=101
+GMBC04,plate,Burrell_Glasgow,no_41.13,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39389;type=101
+GMBC05,plate,Burrell_Glasgow,no_41.14,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39290;type=101
+GMBC06,plate,Burrell_Glasgow,no_41.15,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39267;type=101
+GMBC07,plate,Burrell_Glasgow,no_41.16,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39365;type=101
+GMBC08,plate,Burrell_Glasgow,no_41.18,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39497;type=101
+GMBC09,plate,Burrell_Glasgow,no_41.2,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39206;type=101
+GMBC10,plate,Burrell_Glasgow,no_41.23,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=40347;type=101
+GMBC11,plate,Burrell_Glasgow,no_41.24,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=40140;type=101
+GMBC12,plate,Burrell_Glasgow,no_41.25,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39700;type=101
+GMBC13,plate,Burrell_Glasgow,no_41.26,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39886;type=101
+GMBC14,plate,Burrell_Glasgow,no_41.3,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39224;type=101
+GMBC15,plate,Burrell_Glasgow,no_41.3O,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39275;type=101
+GMBC16,plate,Burrell_Glasgow,no_41.36,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39409;type=101
+GMBC17,plate,Burrell_Glasgow,no_41.37,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39443;type=101
+GMBC18,plate,Burrell_Glasgow,no_41.38,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39467;type=101
+GMBC19,plate,Burrell_Glasgow,no_41.4O,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39233;type=101
+GMBC20,plate,Burrell_Glasgow,no_41.42,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39435;type=101#
+GMBC21,plate,Burrell_Glasgow,no_41.6,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39228;type=101
+GMBC22,plate,Burrell_Glasgow,no_41.17,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39397;type=101
+GMBC23,plate,Burrell_Glasgow,no_41.2O,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39490;type=101
+GMBC24,plate,Burrell_Glasgow,no_41.35,web,http://collections.glasgowmuseums.com/mwebcgi/mweb?request=record;id=39912;type=101
+GULB02,plate,Gulbenkian_Lisbon,no_818,Rebeiro et al. 2013,p.41
+GULB03,plate,Gulbenkian_Lisbon,no_806,Rebeiro et al. 2013,p.42
+GULB04,plate,Gulbenkian_Lisbon,no_844,Rebeiro et al. 2013,p.46
+GULB05,plate,Gulbenkian_Lisbon,no_773,Rebeiro et al. 2013,p.47
+GULB06,plate,Gulbenkian_Lisbon,no_824,Rebeiro et al. 2013,p.61
+GULB07,plate,Gulbenkian_Lisbon,no_854,Rebeiro et al. 2013,p.68
+GULB08,jug,Gulbenkian_Lisbon,no_2074,Rebeiro et al. 2013,p.69
+GULB09,plate,Gulbenkian_Lisbon,no_2243,Rebeiro et al. 2013,p.88
+GULB10,plate,Gulbenkian_Lisbon,no_2245,Rebeiro et al. 2013,p.89
+GULB11,plate,Gulbenkian_Lisbon,no_811,Rebeiro et al. 2013,p.97
+GULB13,plate,Gulbenkian_Lisbon,no_2250,Rebeiro et al. 2013,p.99
+GULB14_1,tile,Gulbenkian_Lisbon,no_1709,Rebeiro et al. 2013,p.104/119
+GULB14_2,tile,Gulbenkian_Lisbon,no_1709,Rebeiro et al. 2013,p.104/119
+GULB15,tile,Gulbenkian_Lisbon,no_1641,Rebeiro et al. 2013,p.113
+GULB16,tile,Gulbenkian_Lisbon,no_1688,Rebeiro et al. 2013,p.117
+GULB17,tile,Gulbenkian_Lisbon,no_1709,Rebeiro et al. 2013,p.119
+GULB18,tile,Gulbenkian_Lisbon,no_1668,Rebeiro et al. 2013,p.126
+GULB19_1,tile,Gulbenkian_Lisbon,NA,,
+GULB19_2,tile,Gulbenkian_Lisbon,NA,,
+GULB19_3,tile,Gulbenkian_Lisbon,NA,,
+GULB19_4,tile,Gulbenkian_Lisbon,NA,,
+GULB19_5,tile,Gulbenkian_Lisbon,NA,,
+GULB19_6,tile,Gulbenkian_Lisbon,NA,,
+HAM01,tile,Harvard_Cambridge_MA,no_1960.19,web,https://www.harvardartmuseums.org/collections/object/216651?position=0
+HAM07,plate,Harvard_Cambridge_MA,no_1985.315,web,https://www.harvardartmuseums.org/collections/object/213052?position=7
+HAM09,tile,Harvard_Cambridge_MA,no_1985.322,web,https://www.harvardartmuseums.org/collections/object/215763?position=8
+HAM10,plate,Harvard_Cambridge_MA,no_2011.542,web,https://www.harvardartmuseums.org/collections/object/190789?position=11
+IPOT01,plate,VA_London,no_185-1892,Atasoy et al. 2008,fig.321
+IPOT02,plate,BM_London,no_90.6-21.1,Atasoy et al. 2008,fig.325
+IPOT03,plate,BM_London,no_78.12-30.523,Atasoy et al. 2008,fig.326
+IPOT04,jug,CG_Lisbon,no_811,Atasoy et al. 2008,fig.327
+IPOT05,plate,JS_Paris,NA,Atasoy et al. 2008,fig.331
+IPOT06,plate,OM_Vienna,no_OR 788,Atasoy et al. 2008,fig.339
+IPOT07,plate,VA_London,no_C.1995/1910,Atasoy et al. 2008,fig.343
+IPOT08,jug,Ashmolean_Oxford,no_x.3272,Atasoy et al. 2008,fig.348
+IPOT09,plate,Louvre_Paris,no_MAO385,Atasoy et al. 2008,fig.351
+IPOT10,plate,VA_London,no_C.1986-1910,Atasoy et al. 2008,fig.359
+IPOT11,plate,BM_London,no_G.1983.21,Atasoy et al. 2008,fig.360
+IPOT12,plate,Ashmolean_Oxford,no_x.3277,Atasoy et al. 2008,fig.361
+IPOT13,plate,Louvre_Paris,no_6643,Atasoy et al. 2008,fig.363
+IPOT14,basin,VA_London,no_C.1991-1910,Atasoy et al. 2008,fig.366
+IPOT16,plate,CG_Lisbon,no_2239,Atasoy et al. 2008,fig.368
+IPOT17,plate,VA_London,no_C.1982-1910,Atasoy et al. 2008,fig.369
+IPOT18,plate,Met_NY,no_17.120.19,Atasoy et al. 2008,fig.672
+IPOT19,plate,MR_Ecouen,no_Cl. 8548,Atasoy et al. 2008,fig.673
+IPOT20,candlestick,Ashmolean_Oxford,no_x.3276,Atasoy et al. 2008,fig.674
+IPOT21,plate,Ashmolean_Oxford,no_Cl.276,Atasoy et al. 2008,fig.676
+IPOT22,plate,BM_London,no_78.12-30.493,Atasoy et al. 2008,fig.684
+IPOT23,plate,MR_Ecouen,no_Cl.8217,Atasoy et al. 2008,fig.685
+IPOT24,plate,HC_Kuwait,no_I/285,Atasoy et al. 2008,fig.692
+IPOT25,tankard,HC_Kuwait,no_I/585,Atasoy et al. 2008,fig.693
+IPOT26,plate,MR_Ecouen,no_Cl.8178,Atasoy et al. 2008,fig.694
+IPOT27,plate,Mathey_Malibu,NA,Atasoy et al. 2008,fig.698
+IPOT28,plate,CG_Lisbon,no_824,Atasoy et al. 2008,fig.701
+IPOT29,plate,Brusch_Genoa,NA,Atasoy et al. 2008,fig.702
+IPOT30,vase,VA_London,no_232.1876,Atasoy et al. 2008,fig.703
+IPOT31,tankard,CG_Lisbon,no_777,Atasoy et al. 2008,fig.705
+IPOT32,vase,BM_London,no_Fb.is.1,Atasoy et al. 2008,fig.729
+IPOT33,plate,Brusch_Genoa,NA,Atasoy et al. 2008,fig.730
+IPOT34,plate,CG_Lisbon,no_2250,Atasoy et al. 2008,fig.735
+IPOT35,plate,CG_Lisbon,no_787,Atasoy et al. 2008,fig.746
+IPOT36,plate,BM_London,no_Fb.is.4,Atasoy et al. 2008,fig.747
+IPOT37,plate,CG_Lisbon,no_798,Atasoy et al. 2008,fig.748
+IPOT38,plate,Magdalene_Oxford,NA,Atasoy et al. 2008,fig.781
+IPOT39,plate,Private_Paris,NA,Atasoy et al. 2008,fig.782
+KOC01,plate,NA,NA,Bilgi et al. 2015,p.65
+KOC03,plate,NA,no_SHM17308,Bilgi et al. 2015,p.112
+KOC04,plate,NA,no_SHM3886,Bilgi et al. 2015,p.113
+KOC06,plate,NA,no_SHM9293,Bilgi et al. 2015,p.115
+KOC07,tankard,NA,no_SHM9302,Bilgi et al. 2015,p.116
+KOC08,tankard,NA,no_SHM12007,Bilgi et al. 2015,p.117
+KOC09,plate,NA,no_SHM3889,Bilgi et al. 2015,p.118
+KOC10_1,spandrel,NA,no_SHM4181,Bilgi et al. 2015,p.120
+KOC10_2,spandrel,NA,no_SHM4181,Bilgi et al. 2015,p.120
+KOC11,tile,NA,no_SHM4216,Bilgi et al. 2015,p.122
+KOC12,tile,NA,NA,Bilgi et al. 2015,p.124
+KOC13,tile,NA,NA,Bilgi et al. 2015,p.125
+KOC14,tile,NA,no_SHM4184,Bilgi et al. 2015,p.126
+KOC15,jar,NA,no_SHM12383,Bilgi et al. 2015,p.127
+KOC16,plate,NA,NA,Bilgi et al. 2015,p.131
+KOC17,plate,NA,NA,Bilgi et al. 2015,p. 132
+KOC18,tile,NA,no_SHM17582,Bilgi et al. 2015,p.136
+KOC19,panel,NA,no_SHM3900,Bilgi et al. 2015,p.150
+KOC20,tile,NA,NA,Bilgi et al. 2015,p.163
+KOC21,tile,NA,NA,Bilgi et al. 2015,p.171
+KOC22,tile,NA,no_SHM14096,Bilgi et al. 2015,p.172
+KOC23,tile,NA,NA,Bilgi et al. 2015,p.185
+KOC24,tile,NA,NA,Bilgi et al. 2015,p.206
+KOC25,plate,NA,NA,Bilgi et al. 2015,p.208
+KOC26,tile,NA,NA,Bilgi et al. 2015,p.221
+KOC27,tile,NA,NA,Bilgi et al. 2015,p.222
+KOC28,tile,NA,NA,Bilgi et al. 2015,p.224
+KOC29,plate,NA,NA,Bilgi et al. 2015,p.237
+KOC30,plate,NA,no_SHM9295,Bilgi et al. 2015,p.241
+KOC31,plate,NA,NA,Bilgi et al. 2015,p.243
+KOC32,plate,NA,NA,Bilgi et al. 2015,p.244
+KOC33,plate,NA,no_SHM15305,Bilgi et al. 2015,p.245
+KOC34,plate,NA,NA,Bilgi et al. 2015,p.246
+KOC35,plate,NA,NA,Bilgi et al. 2015,p.247
+KOC36,plate,NA,NA,Bilgi et al. 2015,p.248
+KOC37,tankard,NA,no_SHM3892,Bilgi et al. 2015,p.250
+KOC38,plate,NA,NA,Bilgi et al. 2015,p.251
+KOC39,plate,NA,NA,Bilgi et al. 2015,p.252
+KOC40,plate,NA,NA,Bilgi et al. 2015,p.253
+KOC41,plate,NA,NA,Bilgi et al. 2015,p.254
+KOC42,plate,NA,NA,Bilgi et al. 2015,p.255
+KOC43,plate,NA,NA,Bilgi et al. 2015,p.257
+KOC44,plate,NA,NA,Bilgi et al. 2015,p.258
+KOC45,plate,NA,NA,Bilgi et al. 2015,p.260
+KOC46,jug,NA,NA,Bilgi et al. 2015,p.262
+KOC47,tankard,NA,NA,Bilgi et al. 2015,p.264
+KOC48,tankard,NA,NA,Bilgi et al. 2015,p.265
+KOC49,plate,NA,NA,Bilgi et al. 2015,p.267
+KOC50,plate,NA,no_SHM3943,Bilgi et al. 2015,p.269
+KOC51,plate,NA,NA,Bilgi et al. 2015,p.270
+KOC52,plate,NA,NA,Bilgi et al. 2015,p.271
+KOC53,plate,NA,NA,Bilgi et al. 2015,p.272
+KOC54,plate,NA,NA,Bilgi et al. 2015,p.274
+KOC55,plate,NA,NA,Bilgi et al. 2015,p.275
+KOC57,vase,NA,no_SHM15288,Bilgi et al. 2015,p.278
+KOC58,plate,NA,no_SHM10609,Bilgi et al. 2015,p.279
+KOC59,plate,NA,NA,Bilgi et al. 2015,p.280
+KOC60,plate,NA,NA,Bilgi et al. 2015,p.282
+KOC61,jug,NA,no_SHM9056,Bilgi et al. 2015,p.283
+KOC62,jug,NA,NA,Bilgi et al. 2015,p.284
+KOC64,plate,NA,NA,Bilgi et al. 2015,p.387
+KOC65,plate,NA,no_SHM17309,Bilgi et al. 2015,p.396
+KOC67,plate,NA,NA,Bilgi et al. 2015,p.408
+KOC69,plate,NA,NA,Bilgi et al. 2015,p.412
+KOC70,tankard,NA,NA,Bilgi et al. 2015,p.414
+KOC74,plate,NA,NA,Bilgi et al. 2015,p.423
+KOC75,plate,NA,NA,Bilgi et al. 2015,p.425
+KOC76,plate,NA,NA,Bilgi et al. 2015,p.449
+KOC78,plate,NA,NA,Bilgi et al. 2015,p.475
+KOC79,plate,NA,NA,Bilgi et al. 2015,p.476
+KOC80,plate,NA,NA,Bilgi et al. 2015,p.477
+KOC82,plate,NA,NA,Bilgi et al. 2015,p.481
+KOC83,plate,NA,NA,Bilgi et al. 2015,p.482
+LACMA01,tile,LACMA_LA,no_M.2000.31,web,https://collections.lacma.org/node/198922
+LACMA02,plate,LACMA_LA,no_M.2006.130,web,https://collections.lacma.org/node/212736
+LACMA03,jug,LACMA_LA,no_M.73.5.257,web,https://collections.lacma.org/node/239586
+LACMA04,plate,LACMA_LA,no_M.73.5.381,web,https://collections.lacma.org/node/239976
+LACMA05,plate,LACMA_LA,no_M.2002.1.21,web,https://collections.lacma.org/node/204652
+LACMA06_1,tile,LACMA_LA,no_M.85.237.86a-d,web,https://collections.lacma.org/node/251262
+LACMA06_2,tile,LACMA_LA,no_M.85.237.86a-d,web,https://collections.lacma.org/node/251262
+LACMA06_3,tile,LACMA_LA,no_M.85.237.86a-d,web,https://collections.lacma.org/node/251262
+LACMA06_4,tile,LACMA_LA,no_M.85.237.86a-d,web,https://collections.lacma.org/node/251262
+LACMA07,panel,LACMA_LA,no_M.85.237.84a-c,web,https://collections.lacma.org/node/251276
+LACMA08,panel,LACMA_LA,no_M.73.5.6,web,https://collections.lacma.org/node/239904
+LACMA09,panel,LACMA_LA,no_M.71.73.37a-b,web,https://collections.lacma.org/node/221366
+LOU01,tankard,Louvre_Paris,no_OA6323,web,http://mini-site.louvre.fr/trois-empires/en/ceramiques-ottomanes-4-z1.php
+LOU03,spandrel,Louvre_Paris,"no_OA3959/52,OA3959/53",web,http://mini-site.louvre.fr/trois-empires/en/ceramiques-ottomanes-12-z1.php
+LOU04,plate,Louvre_Paris,no_K3449,web,http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=25249
+LOU07,spandrel,Louvre_Paris,no_AD27748,web,http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=35840&langue=fr
+LOU09,jug,Louvre_Paris,no_OA7257,web,http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=35818&langue=fr
+LOU10,plate,Louvre_Paris,no_OA7256,web,http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=35816&langue=fr
+LOU11,plate,Louvre_Paris,no_OA7604,web,http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=35836&langue=fr
+LOU12,plate,Louvre_Paris,no_AD27720,web,http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=35864&langue=fr
+LOU13,plate,Louvre_Paris,no_OA6740,web,http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=35824&langue=fr
+LOU15,plate,Louvre_Paris,no_OA6648,web,http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=35848&langue=fr
+MET01,plate,Met_NY,no_59.69.1,web,https://www.metmuseum.org/toah/works-of-art/59.69.1/
+MET02,tile,Met_NY,no_1978.35,web,https://www.metmuseum.org/art/collection/search/452854
+MET03,tile,Met_NY,no_02.5.91,web,https://www.metmuseum.org/art/collection/search/444897?sortBy=Relevance&amp;ft=iznik&amp;offset=0&amp;rpp=20&amp;pos=2
+MET05,plate,Met_NY,no_56.185.2,web,https://www.metmuseum.org/art/collection/search/453599?sortBy=Relevance&amp;ft=iznik&amp;offset=0&amp;rpp=20&amp;pos=8
+MET06,plate,Met_NY,no_17.120.19,web,https://www.metmuseum.org/art/collection/search/446895?sortBy=Relevance&amp;ft=iznik&amp;offset=0&amp;rpp=20&amp;pos=11
+MET07_1,tile,Met_NY,"no_1997.307a,b",web,https://www.metmuseum.org/art/collection/search/453400?sortBy=Relevance&amp;ft=iznik&amp;offset=0&amp;rpp=20&amp;pos=10
+MET07_2,tile,Met_NY,"no_1997.307a,b",web,https://www.metmuseum.org/art/collection/search/453400?sortBy=Relevance&amp;ft=iznik&amp;offset=0&amp;rpp=20&amp;pos=10
+MET09,plate,Met_NY,no_1971.235.3,web,https://www.metmuseum.org/art/collection/search/452297?sortBy=Relevance&amp;ft=iznik&amp;offset=20&amp;rpp=20&amp;pos=26
+MET12,plate,Met_NY,no_67.178.1,web,https://www.metmuseum.org/art/collection/search/451943?sortBy=Relevance&amp;ft=iznik&amp;offset=20&amp;rpp=20&amp;pos=35
+MET14,plate,Met_NY,no_14.40.732,web,https://www.metmuseum.org/art/collection/search/446649?sortBy=Relevance&amp;ft=iznik&amp;offset=20&amp;rpp=20&amp;pos=38
+MET15,plate,Met_NY,no_65.103,web,https://www.metmuseum.org/art/collection/search/451800?sortBy=Relevance&amp;ft=iznik&amp;offset=20&amp;rpp=20&amp;pos=37
+MET16,plate,Met_NY,no_91.1.119,web,https://www.metmuseum.org/art/collection/search/444466?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=45
+MET17,plate,Met_NY,no_1972.9,web,https://www.metmuseum.org/art/collection/search/452381?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=44
+MET18,tile,Met_NY,no_02.5.102,web,https://www.metmuseum.org/art/collection/search/444901?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=48
+MET19,plate,Met_NY,no_66.4.18,web,https://www.metmuseum.org/art/collection/search/451849?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=47
+MET20,plate,Met_NY,no_52.1.17,web,https://www.metmuseum.org/art/collection/search/451063?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=51
+MET21,plate,Met_NY,no_07.143.1,web,https://www.metmuseum.org/art/collection/search/444996?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=55
+MET22,plate,Met_NY,no_66.4.16,web,https://www.metmuseum.org/art/collection/search/451847?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=53
+MET23,plate,Met_NY,no_6.1033,web,https://www.metmuseum.org/art/collection/search/444972?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=54
+MET24,plate,Met_NY,no_02.5.50,web,https://www.metmuseum.org/art/collection/search/444886?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=58
+MET25,plate,Met_NY,no_02.5.56,web,https://www.metmuseum.org/art/collection/search/444892?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=60
+MET26,plate,Met_NY,no_02.5.42,web,https://www.metmuseum.org/art/collection/search/444878?sortBy=Relevance&amp;ft=iznik&amp;offset=40&amp;rpp=20&amp;pos=59
+MET27,plate,Met_NY,no_02.5.46,web,https://www.metmuseum.org/art/collection/search/444882?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=61
+MET28,plate,Met_NY,no_02.5.41,web,https://www.metmuseum.org/art/collection/search/444877?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=62
+MET29,plate,Met_NY,no_02.5.53,web,https://www.metmuseum.org/art/collection/search/444889?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=65
+MET30,plate,Met_NY,no_02.5.51,web,https://www.metmuseum.org/art/collection/search/444887?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=64
+MET31,plate,Met_NY,no_12.203,web,https://www.metmuseum.org/art/collection/search/446260?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=69
+MET32,plate,Met_NY,no_02.5.54,web,https://www.metmuseum.org/art/collection/search/444890?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=67
+MET33,plate,Met_NY,no_20.120.144,web,https://www.metmuseum.org/art/collection/search/447224?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=72
+MET34,plate,Met_NY,no_20.120.143,web,https://www.metmuseum.org/art/collection/search/447223?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=70
+MET35,plate,Met_NY,no_20.120.149,web,https://www.metmuseum.org/art/collection/search/447226?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=71
+MET36,plate,Met_NY,no_52.1.19,web,https://www.metmuseum.org/art/collection/search/451065?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=75
+MET37,tile,,NA,,
+MET38,tile,Met_NY,no_40.181.11,web,https://www.metmuseum.org/art/collection/search/450368?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=80
+MET39,plate,Met_NY,no_66.4.8,web,https://www.metmuseum.org/art/collection/search/451839?sortBy=Relevance&amp;ft=iznik&amp;offset=60&amp;rpp=20&amp;pos=79
+MET40,plate,Met_NY,no_14.102.371,web,https://www.metmuseum.org/art/collection/search/446657?sortBy=Relevance&amp;ft=iznik&amp;offset=80&amp;rpp=20&amp;pos=83
+MET41,plate,Met_NY,no_66.4.17,web,https://www.metmuseum.org/art/collection/search/451848?sortBy=Relevance&amp;ft=iznik&amp;offset=80&amp;rpp=20&amp;pos=86
+MET42,panel,Met_NY,no_17.190.2086,web,https://www.metmuseum.org/art/collection/search/447016?sortBy=Relevance&amp;ft=iznik&amp;offset=80&amp;rpp=20&amp;pos=84
+MET43,plate,Met_NY,no_66.4.14,web,https://www.metmuseum.org/art/collection/search/451845?sortBy=Relevance&amp;ft=iznik&amp;offset=80&amp;rpp=20&amp;pos=85
+MET44,plate,Met_NY,no_66.4.12,web,https://www.metmuseum.org/art/collection/search/451843?sortBy=Relevance&amp;ft=iznik&amp;offset=80&amp;rpp=20&amp;pos=87
+MET45,plate,Met_NY,no_91.1.141,web,https://www.metmuseum.org/art/collection/search/444487?sortBy=Relevance&amp;ft=iznik&amp;offset=80&amp;rpp=20&amp;pos=88
+MET46,plate,Met_NY,no_02.5.49,web,https://www.metmuseum.org/art/collection/search/444885?sortBy=Relevance&amp;ft=iznik&amp;offset=80&amp;rpp=20&amp;pos=90
+MK01,tile,MFIK_Berlin ,no_1891142,web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1524293&viewType=detailView
+MK02,tile,MFIK_Berlin ,no_I.5584b,web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1522178&viewType=detailView
+MK04,tile,MFIK_Berlin ,no_1871280,web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1524290&viewType=detailView
+MK05,panel,MFIK_Berlin ,"no_1877,512b",web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=2044236&viewType=detailView
+MK06,tile ,MFIK_Berlin ,"no_1889,180b",web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1524478&viewType=detailView
+MK07,tile,MFIK_Berlin ,no_1891136,web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1524298&viewType=detailView
+MK08,tile,MFIK_Berlin ,no_1891136,web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1524298&viewType=detailView
+MK09,tile,MFIK_Berlin ,no_1891141,web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1524299&viewType=detailView
+MK10,tile,MFIK_Berlin ,no_1873770,web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1524684&viewType=detailView
+MK11,tile,MFIK_Berlin ,"no_1889,180c",web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=2044214&viewType=detailView
+MK12,tile,MFIK_Berlin ,no_.I.5583,web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1522177&viewType=detailView
+MK16,tile,MFIK_Berlin ,no_1889179,web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1524874&viewType=detailView
+MK17,panel,MFIK_Berlin ,"no_1883,87",web,http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1524687&viewType=detailView
+NMS01,plate,NM_Scotland,no_A.1883.18.3,web,https://www.nms.ac.uk/explore-our-collections/collection-search-results/?item_id=320915
+NMS02,plate,NM_Scotland,no_A.1883.18.4,web,https://www.nms.ac.uk/explore-our-collections/collection-search-results/?item_id=320916
+NMS03,plate,NM_Scotland,no_A.1910.22,web,https://www.nms.ac.uk/explore-our-collections/collection-search-results/?item_id=320926
+NMS04,plate,NM_Scotland,no_A.1937.628,web,https://www.nms.ac.uk/explore-our-collections/collection-search-results/?item_id=320929
+NMS05,plate,NM_Scotland,no_A.1967.846,web,https://www.nms.ac.uk/explore-our-collections/collection-search-results/?item_id=320938
+NMS06,tile,NM_Scotland,no_A.1900.160,web,https://www.nms.ac.uk/explore-our-collections/collection-search-results/?item_id=321115
+NMS07,tile,NM_Scotland,no_A.1900.159,web,https://www.nms.ac.uk/explore-our-collections/collection-search-results/?item_id=321114
+PMAG02,plate,Potteries_Stokeontrent,no_1947.P.70,web,http://www.stokemuseums.org.uk/pmag/collections/getrecord/CFPOT_1947_P_70
+PMAG03,tile,Potteries_Stokeontrent,no_1964.P.21,web,http://www.stokemuseums.org.uk/pmag/collections/getrecord/CFPOT_1964_P_21
+SHM01,tile,SH_Istanbul,no_SHM17582,web,http://www.sadberkhanimmuzesi.org.tr/en/collection/ceramic
+SHM02,tile,SH_Istanbul,no_SHM3928,web,http://www.sadberkhanimmuzesi.org.tr/en/collection/ceramic
+SHM03,plate,SH_Istanbul,no_SHM9293,web,http://www.sadberkhanimmuzesi.org.tr/en/collection/ceramic
+TLCM01,plate,NA,no_Vu 2909,Brozkova et al.  2003,p.34
+TLCM02,plate,NA,no_VB 805,Brozkova et al.  2003,p.35
+TLCM03,plate,NA,no_VB 998,Brozkova et al.  2003,p.35
+TLCM04,plate,NA,no_P3066,Brozkova et al.  2003,p.36
+TLCM05,plate,NA,no_Vu1548,Brozkova et al.  2003,p.37
+TLCM06,plate,NA,no_355,Brozkova et al.  2003,p.38
+TLCM07,plate,NA,no_P3063,Brozkova et al.  2003,p.39
+TLCM08,plate,NA,no_P3064,Brozkova et al.  2003,p.39
+TLCM09,plate,NA,no_P3065,Brozkova et al.  2003,p.40
+TLCM10,tankard,NA,no_Vu2907,Brozkova et al.  2003,p.41
+TLCM11,jug,NA,no_Vu1545,Brozkova et al.  2003,p.42
+TLCM12,jug,NA,no_Vu3935,Brozkova et al.  2003,p.43
+TLCM13,jug,NA,no_Vb1111,Brozkova et al.  2003,p.44
+TLCM14,plate,NA,no_Vb953,Brozkova et al.  2003,p.44
+TLCM15,plate,NA,no_P3067,Brozkova et al.  2003,p.48
+TLCM16,plate,NA,no_P3068,Brozkova et al.  2003,p.49
+TLCM17,tile,NA,no_VE2924,Brozkova et al.  2003,p.53
+TLCM18,tile,NA,no_VE2925,Brozkova et al.  2003,p.53
+TLCM19,tile,NA,no_VE2920,Brozkova et al.  2003,p.54
+TLCM20,tile,NA,no_VE2921,Brozkova et al.  2003,p.55
+TLCM21,tile,NA,no_18.039,Brozkova et al.  2003,p.59
+TLCM24,plate,NA,no_13.393,Brozkova et al.  2003,p.66
+VA01,plate,VA_London,no_C.1999-1910,web,http://collections.vam.ac.uk/item/O113283/iznik-dish-unknown/
+VA02,plate,VA_London,no_C.2038-1910,web,http://collections.vam.ac.uk/item/O86655/dish-unknown/
+VA03,plate,VA_London,no_725-1893,web,http://collections.vam.ac.uk/item/O67313/dish-unknown/
+VA04,plate,VA_London,no_C.1983-1910,web,http://collections.vam.ac.uk/item/O86653/dish-unknown/
+VA05,plate,VA_London,no_C1997-1910,web,http://collections.vam.ac.uk/item/O86505/dish-unknown/
+VA06,plate,VA_London,no_C1995-1910,web,http://collections.vam.ac.uk/item/O85914/dish-unknown/
+VA07,plate,VA_London,no_C1986-1910,web,http://collections.vam.ac.uk/item/O86500/dish-unknown/
+VA08,plate,VA_London,no_C.1982.1910,web,http://collections.vam.ac.uk/item/O86494/dish-unknown/
+VA09,plate,VA_London,no_C.2044-1910,web,http://collections.vam.ac.uk/item/O113287/dish-unknown/
+VA10,plate,VA_London,no_C.2007-1910,web,http://collections.vam.ac.uk/item/O469629/dish-unknown/
+VA11,tile,VA_London,no_696-1883,web,http://collections.vam.ac.uk/item/O213707/tile-unknown/
+VA12,plate,VA_London,no_1133-1864,web,http://collections.vam.ac.uk/item/O198760/plate-unknown/
+VA13,plate,VA_London,no_723-1893,web,http://collections.vam.ac.uk/item/O86454/plate-unknown/
+VA14,plate,VA_London,no_C.2025-1910,web,http://collections.vam.ac.uk/item/O113286/dish-unknown/
+VA15,plate,VA_London,no_1753-1892,web,http://collections.vam.ac.uk/item/O86734/dish-unknown/
+VA16,plate,VA_London,no_360-1888,web,http://collections.vam.ac.uk/item/O221040/dish-unknown/
+VA17,plate,VA_London,no_177-1866,web,http://collections.vam.ac.uk/item/O198768/plate-unknown/
+VA18,plate,VA_London,no_C.1998-1910,web,http://collections.vam.ac.uk/item/O85940/dish-unknown/
+VA19,plate,VA_London,no_C.1984-1910,web,http://collections.vam.ac.uk/item/O340340/dish-unknown/
+VA20,plate,VA_London,no_C.2005-1910,web,http://collections.vam.ac.uk/item/O85356/dish-unknown/
+VA21,panel,VA_London,no_988-1884,web,http://collections.vam.ac.uk/item/O90737/panel-of-tiles-unknown/
+VA22,plate,VA_London,no_276-1893,web,http://collections.vam.ac.uk/item/O86650/dish-unknown/
+VA23,tile,VA_London,no_1638B-1892,web,http://collections.vam.ac.uk/item/O224469/tile-unknown/
+VA24,tile,VA_London,no_189:28-1881,web,http://collections.vam.ac.uk/item/O213675/tile-unknown/
+VA25,tile,VA_London,no_413-1900,web,http://collections.vam.ac.uk/item/O202606/tile-unknown/
+VA26,tile,VA_London,no_780-1900,web,http://collections.vam.ac.uk/item/O205284/tile-unknown/
+VA27,tile,VA_London,no_202E-1894,web,http://collections.vam.ac.uk/item/O224889/tile-unknown/
+VA28,tile,VA_London,no_1339C-1893,web,http://collections.vam.ac.uk/item/O224836/tile-unknown/
+VA30,plate,VA_London,no_C.1994-1910,web,http://collections.vam.ac.uk/item/O86504/dish-unknown/
+VA31,plate,VA_London,no_723-1893,web,http://collections.vam.ac.uk/item/O86454/plate-unknown/
+VA33,plate,VA_London,no_C.2005-1910,web,http://collections.vam.ac.uk/item/O85356/dish-unknown/
+VA34,plate,VA_London,no_C.1984-1910,web,http://collections.vam.ac.uk/item/O340340/dish-unknown/
+VA35_1,spandrel,VA_London,"no_1879:1,2-1897",web,http://collections.vam.ac.uk/item/O100771/spandrel-tiles-unknown/
+VA35_2,spandrel,VA_London,"no_1879:1,2-1897",web,http://collections.vam.ac.uk/item/O100771/spandrel-tiles-unknown/
+VA36_1,tile,VA_London,no_428-1900,web,http://collections.vam.ac.uk/item/O86971/tile-panel-unknown/
+VA36_2,tile,VA_London,no_428-1900,web,http://collections.vam.ac.uk/item/O86971/tile-panel-unknown/
+VA37,plate,VA_London,no_1135-1864,web,http://collections.vam.ac.uk/item/O198763/plate-unknown/
+VA38,tile,VA_London,no_696B-1883,web,http://collections.vam.ac.uk/item/O213716/tile-unknown/
+VA40_1,tile,VA_London,no_273A-1902,web,http://collections.vam.ac.uk/item/O205410/tile-unknown/
+VA40_2,tile,VA_London,no_273A-1902,web,http://collections.vam.ac.uk/item/O205410/tile-unknown/
+VA41,tile,VA_London,no_480-1900,web,http://collections.vam.ac.uk/item/O202739/tile-unknown/
+VA43_1,tile,VA_London,no_189:10-1881,web,http://collections.vam.ac.uk/item/O279235/tile-unknown/
+VA43_2,tile,VA_London,no_189:10-1881,web,http://collections.vam.ac.uk/item/O279235/tile-unknown/
+VA45,tile,VA_London,no_452-1901,web,http://collections.vam.ac.uk/item/O181158/tile-unknown/
+VA46,plate,VA_London,no_C.2042-1910,web,http://collections.vam.ac.uk/item/O211554/dish-unknown/
+VA47,plate,VA_London,no_C.2022-1910,web,http://collections.vam.ac.uk/item/O211486/dish-unknown/
+VA48,tile,VA_London,no_424-1900,web,http://collections.vam.ac.uk/item/O202618/tile-unknown/
+VA49,plate,VA_London,no_274-1893,web,http://collections.vam.ac.uk/item/O87206/dish-unknown/
+VA50,plate,VA_London,no_C.2029-1910,web,http://collections.vam.ac.uk/item/O340294/dish-unknown/
+VA51,plate,VA_London,no_C.1985-1910,web,http://collections.vam.ac.uk/item/O86499/dish-unknown/
+VA52,tile ,VA_London,no_435toD-1900,web,http://collections.vam.ac.uk/item/O40301/tile-panel-unknown/
+VA53,plate,VA_London,no_C.2010-1910,web,http://collections.vam.ac.uk/item/O85943/dish-unknown/
+VA54,plate,VA_London,no_1763-1892,web,http://collections.vam.ac.uk/item/O224626/dish-unknown/
+VA55,plate,VA_London,no_472-1892,web,http://collections.vam.ac.uk/item/O224005/dish-unknown/
+VA56,tile,VA_London,no_C.4-1953,web,http://collections.vam.ac.uk/item/O182630/tile-unknown/
+VA57,plate,VA_London,no_717-1893,web,http://collections.vam.ac.uk/item/O224691/plate-unknown/
+VA58,tile,VA_London,no_189:4-1881,web,http://collections.vam.ac.uk/item/O213634/tile-unknown/
+VA59_1,tile,VA_London,no_1886:1to8-1897,web,http://collections.vam.ac.uk/item/O40403/tile-panel-unknown/
+VA59_2,tile,VA_London,no_1886:1to8-1897,web,http://collections.vam.ac.uk/item/O40403/tile-panel-unknown/
+VA59_3,tile,VA_London,no_1886:1to8-1897,web,http://collections.vam.ac.uk/item/O40403/tile-panel-unknown/
+VA60,tile,VA_London,no_1308A-1893,web,http://collections.vam.ac.uk/item/O224800/tile-unknown/
+VA61,tile,VA_London,no_447A-1900,web,http://collections.vam.ac.uk/item/O202711/tile-unknown/
+VA62,tile,VA_London,no_447-1900,web,http://collections.vam.ac.uk/item/O202709/tile-unknown/
+VA63,plate,VA_London,no_726-1893,web,http://collections.vam.ac.uk/item/O224699/plate-unknown/
+VA64,plate,VA_London,no_948-1898,web,http://collections.vam.ac.uk/item/O199675/dish-unknown/
+VA65,tile,VA_London,no_CIRC.31-1953,web,http://collections.vam.ac.uk/item/O225318/tile-unknown/
+VA66,plate,VA_London,no_C.2034-1910,web,http://collections.vam.ac.uk/item/O211519/dish-unknown/
